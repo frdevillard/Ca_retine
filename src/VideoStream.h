@@ -6,7 +6,7 @@
  */
 
 #include <string>
-#include <opencv.hpp>
+#include <opencv2/opencv.hpp>
 #include <time.h>
 
 #include "Reseau.h"
