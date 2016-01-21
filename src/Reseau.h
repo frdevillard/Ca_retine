@@ -5,7 +5,7 @@
  *      Author: pierre
  */
 
-#include <opencv.hpp>
+#include <opencv2/opencv.hpp>
 #include "Cell.h"
 
 #ifndef SRC_RESEAU_H_
